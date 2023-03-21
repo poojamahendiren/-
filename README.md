@@ -13,3 +13,31 @@ https://stackblitz.com/edit/react-ts-cmehrq?file=App.tsx
 3)
 Show/Hide Element on Screen:
 https://stackblitz.com/edit/react-ts-cmehrq?file=App.tsx
+
+4)
+2 way data binding in ReactJS:
+https://stackblitz.com/edit/react-xx3ny6?file=src/App.js
+
+5)
+Disable a button:
+https://stackblitz.com/edit/react-jjnmxe?file=src/App.js
+
+6)
+Update the parent state:
+https://stackblitz.com/edit/react-n9kwky?file=src/App.js
+
+7)
+Dynamically add child components (React Children):
+https://stackblitz.com/edit/react-pfchsv?file=src/App.js
+
+8)
+Sum of Two Numbers:
+https://stackblitz.com/edit/react-84y22r?file=src%2FApp.js
+
+9)
+Create Counter App 🕒:
+https://stackblitz.com/edit/react-22bkud?file=src/App.js
+
+10)
+Fetch data from an API:
+https://stackblitz.com/edit/react-ojzlqk?file=src/App.js
