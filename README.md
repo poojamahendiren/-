@@ -8,7 +8,7 @@ https://stackblitz.com/edit/react-ts-js2djr?file=App.tsx
 
 2)
 Display array of users to browser :
-https://stackblitz.com/edit/react-ts-cmehrq?file=App.tsx
+https://stackblitz.com/edit/react-ar1bku?file=src/App.js
 
 3)
 Show/Hide Element on Screen:
